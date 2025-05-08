@@ -17,18 +17,18 @@ Antes de iniciar, certifique-se de ter os seguintes itens instalados:
 
 ### 1. Clone o repositório:
 ```bash
-$ git clone https://github.com/rafaelwnk/PokeAPI.git
-$ cd PokeAPI
+git clone https://github.com/rafaelwnk/PokeAPI.git
+cd PokeAPI
 ```
 
 ### 2. Restaure as dependências:
 ```bash
-$ dotnet restore
+dotnet restore
 ```
 
 ### 3. Execute o projeto:
 ```bash
-$ dotnet run
+dotnet run
 ```
 
 ## Utilização da API
