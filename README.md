@@ -12,7 +12,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 ### Pré-requisitos
 Antes de iniciar, certifique-se de ter os seguintes itens instalados:
 <ul>
-    .NET 8 ou superior
+    <li>.NET 8 ou superior</li>
 </ul>
 
 ### 1. Clone o repositório:
